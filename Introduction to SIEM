@@ -22,5 +22,18 @@ Analysing Logs and Alerts
   What type of alert may require tuning?
     False alarm - If false alarms are frequent, the alert should be tuned to not trigger falsly as often
     
-Lab Work
-  
+Lab Work - this part is very simple so there will just be answers listed.
+  Click on Start Suspicious Activity, which process caused the alert?
+    cudominer.exe
+  Find the event that caused the alert, which user was responsible for the process execution?
+    Chris.Fort - User mentioned in the cudominer log
+  What is the hostname of the suspect user?
+    HR_02
+  Examine the rule and the suspicious process; which term matched the rule that caused the alert?
+    miner
+  What is the best option that represents the event? Choose from the following:
+    True-Positive
+  Selecting the right ACTION will display the FLAG. What is the FLAG?
+    redacted
+    
+    

@@ -1,1 +1,16 @@
+This is a write-up for a Tryhackme room named Introduction to SIEM.
 
+Introduction
+  No answers needed
+
+Network Visibility through SIEM
+  Is Registry-related activity host-centric or network-centric?
+    falls under the description of host-centric.
+  Is VPN related activity host-centric or network-centric?
+    falls under the description of network-centric.
+    
+Log Sources and Log Ingestion
+  In which location within a Linux environment are HTTP logs are stored?
+    /var/log/httpd (in text)
+
+Why SIEM

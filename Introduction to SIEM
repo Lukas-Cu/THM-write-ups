@@ -14,3 +14,13 @@ Log Sources and Log Ingestion
     /var/log/httpd (in text)
 
 Why SIEM
+  No answers needed
+
+Analysing Logs and Alerts
+  Which Event ID is generated when event logs are removed?
+    104 (text)
+  What type of alert may require tuning?
+    False alarm - If false alarms are frequent, the alert should be tuned to not trigger falsly as often
+    
+Lab Work
+  
